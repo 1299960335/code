@@ -1,0 +1,16 @@
+D:\代码\用户界面\用户界面\bin\Debug\用户界面.exe.config
+D:\代码\用户界面\用户界面\bin\Debug\用户界面.exe
+D:\代码\用户界面\用户界面\bin\Debug\用户界面.pdb
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.csprojAssemblyReference.cache
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form1.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Properties.Resources.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.csproj.GenerateResource.cache
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.csproj.CoreCompileInputs.cache
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.exe
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.pdb
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form2.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form21.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form3.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form31.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form4.resources
+D:\代码\用户界面\用户界面\obj\Debug\用户界面.Form41.resources
